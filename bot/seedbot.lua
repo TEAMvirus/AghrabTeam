@@ -226,30 +226,18 @@ function create_config( )
     "Set",
     "Stats"
     },
-    sudo_users = {185264953,175636120},
+     sudo_users = {159766526,167288719},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
-
-Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
-
-Special thanks to:
-Juan Potato
-Siyanew
-Topkecleon
-Vamptacus
-
-Our channels:
-English: @TeleSeedCH
-Persian: @IranSeed
+    about_text = [[🤖 TeleAghrab 🤖�
+📛 @KING_OF_AQRAB [FoundeR]
+📛 @Ww_reza_aqrab_reza_wW [ManageR]
+Special thanks to 
+SeeDTeaM
+👾VirUS™ @vViruSs 
+⚜⚜⚜⚜⚜⚜⚜⚜
+Our ChannelS
+@Aqrab_team
 ]],
     help_text_realm = [[
 Realm Commands:
